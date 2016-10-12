@@ -3,6 +3,8 @@
 Languages / Technologies used in this project:
 
 *   ReactJS.
+*   NodeJS.
+*   Socket.io
 *   Javascript.
 *   HTML5.
 *   Bootstrap.
